@@ -1,2 +1,2 @@
 # project
-rojects using SQL, Python, and Power BI
+Projects using SQL, Python, and Power BI
